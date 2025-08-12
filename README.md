@@ -1,6 +1,6 @@
 # PHYS30762 - Particle Detector Simulation
 ## Author
-Rosa Roberts (Student ID: 11016395)
+Rosa Roberts
 
 ## Date
 12.08.2025
