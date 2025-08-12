@@ -3,7 +3,11 @@
 Rosa Roberts (Student ID: 11016395)
 
 ## Date
-11.05.2025
+12.08.2025
+
+## Code Archive
+This codebase is archived on Zenodo:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16813735.svg)](https://doi.org/10.5281/zenodo.16813735)
 
 ## Overview
 
